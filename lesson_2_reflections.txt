@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	Ans- We we initialize a new repository, git starts tracking the project and saves the versions of it, so that we can perform version control on it.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers? 
+
+	Ans- 
